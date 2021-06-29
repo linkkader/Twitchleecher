@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="red">#FF0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey_black">#99FFFFFF</color>
+    <color name="orange">#F44336</color>
+
+    <color name="grey_white">#56FFFFFF</color>
+    <color name="blackTransparent">#07DDDDDD</color>
+
+    <color name="backgroud_dark">#1C1C1D</color>
+    <color name="secondary_text_white">#B3FFFFFF</color>
+    <color name="txt">#FFEB3B</color>
+
+    <color name="black_1">#BF000000</color>
+    <color name="black_2">#99000000</color>
+    <color name="black_3">#80000000</color>
+
+    <color name="white_1">#BFFFFFFF</color>
+    <color name="white_2">#99FFFFFF</color>
+    <color name="white_3">#80FFFFFF</color>
+    <color name="white_4">#00CCA8A8</color>
+
+    <!--  genre color -->
+    <color name="genre_1">#F44336</color>
+    <color name="genre_2">#E91E63</color>
+    <color name="genre_3">#9C27B0</color>
+    <color name="genre_4">#673AB7</color>
+    <color name="genre_5">#3F51B5</color>
+    <color name="genre_6">#2196F3</color>
+    <color name="genre_7">#00BCD4</color>
+    <color name="genre_8">#03A9F4</color>
+    <color name="genre_9">#009688</color>
+    <color name="genre_10">#4CAF50</color>
+    <color name="genre_11">#8BC34A</color>
+    <color name="genre_12">#CDDC39</color>
+    <color name="genre_13">#FFEB3B</color>
+    <color name="genre_14">#FFC107</color>
+    <color name="genre_15">#FF9800</color>
+    <color name="genre_16">#FF5722</color>
+    <color name="yellow">#FF5722</color>
+    <!--  black color -->
+    <color name="black_grey1">#131313</color>
+    <color name="black_grey2">#1C1918</color>
+    <color name="black_grey3">#3A3333</color>
+    <color name="black_grey4">#120D0B</color>
+    <color name="black_grey5">#98857F</color>
+
+    <color name="black_grey6">#7E7673</color>
+    <color name="black_grey7">#6A5D58</color>
+    <!--  default theme olor -->
+    <color name="default_1">#FF1C1C1D</color>
+    <color name="default_2">#000000</color>
+    <color name="deafaul_3">#3A3333</color>
+
+
+    <color name="mauve">#673ab7</color>
+    <color name="mauve2">#3A3333</color>
+
+
+
+    <color name="c1">#66000000</color>
+    <color name="c2">#878C83</color>
+    <color name="c3">#1B98FB</color>
+    <color name="c4">#66000000</color>
+    <color name="anyme">#111a29</color>
+    <!--  tachi  -->
+    <color name="tachi_blue_color">#307dff</color>
+    <color name="tachi_text_1">#000000</color>
+    <color name="tachi_text_2">#404040</color>
+    <color name="tachi_text_3">#919191</color>
+    <color name="tachi_text_4">#90919191</color>
+    <color name="tachi_text_5">#20919191</color>
+    <!--  tachi2  -->
+    <color name="tachi2_bg_color">#202125</color>
+    <color name="tachi2_blue">#54759e</color>
+    <color name="tachi2_white">#b1c0d2</color>
+    <!--tachi 3-->
+    <color name="tachi3_black1">#202125</color>
+    <color name="tachi3_white1">#6c6d6f</color>
+    <color name="tachi3_ep_bg_active">#606063</color>
+    <color name="tachi3_ep_already">#4d4d51</color>
+    <color name="tachi3_blue">#3399ff</color>
+    <color name="tachi3_white3">#8e8e8e</color>
+
+
+
+
+    <color name="imgtoolbarbg">#33111A29</color>
+</resources>
